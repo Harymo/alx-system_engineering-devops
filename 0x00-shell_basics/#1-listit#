@@ -1,0 +1,7 @@
+#!/bin/bash
+ls
+ :wq
+ chmod u+x 1-listit
+ cd ..
+ git add .
+ 
